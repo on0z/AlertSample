@@ -1,0 +1,22 @@
+.DS_Store
+*.swp
+*~.nib
+
+build/
+
+# Xcode project files except for the project file
+#*.xcodeproj/*
+#!*.xcodeproj/project.pbxproj
+
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+#!xcuserdata/
+*.xcuserstate
+*.xcsettings
+#bookmarks.xcodeproj/project.xcworkspace/xcuserdata/zono.xcuserdatad/UserInterfaceState.xcuserstate
+#bookmarks.xcodeproj/project.xcworkspace/xcuserdata/zono.xcuserdatad/WorkspaceSettings.xcsettings
+
+# Windows image thumbnail file
+Thumbs.db 
